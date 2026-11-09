@@ -1,0 +1,11 @@
+{
+  "name": "Kamili Éduc — Infrastructure scolaire camerounaise",
+  "short_name": "Kamili Éduc",
+  "description": "Plateforme offline-first pour le suivi scolaire, la transparence APEE, les projets d'école et Football for Schools.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f8f7",
+  "theme_color": "#0d3331",
+  "lang": "fr",
+  "icons": []
+}
